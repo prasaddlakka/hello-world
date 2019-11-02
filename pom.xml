@@ -26,10 +26,10 @@ THE SOFTWARE.
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jenkins-ci.main</groupId>
-  <artifactId>jenkins-war</artifactId>
+  <artifactId>hello-world</artifactId>
   <version>2.190.1</version>
   <packaging>war</packaging>
-  <name>Jenkins war</name>
+  <name>hello-world</name>
   <description>Creates a war file. Also includes additional static web resources, such as images, CSS, JavaScript, and some HTML files.</description>
   <url>https://jenkins.io/jenkins-parent/jenkins-war/</url>
   <inceptionYear>2004</inceptionYear>
